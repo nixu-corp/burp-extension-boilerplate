@@ -1,3 +1,7 @@
+All parts of this repository use the following MIT License,
+except ones defined below
+
+---------------------------------------
 MIT License
 
 Copyright (c) 2016 Nixu Corporation
@@ -19,3 +23,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---------------------------------------
+
+The following parts are owned, developed, and/or maintined by their own
+respective develoeprs. Please visit them and check their licences.
+
+---------------------------------------
+
+- Burp
+https://portswigger.net/burp/eula-free.html
+https://portswigger.net/burp/eula-pro.html
+
+- Oracle Java SE (not included in this codebase)
+http://www.oracle.com/technetwork/java/javase/downloads/thirdpartylicensereadme-java8-2168078.txt
